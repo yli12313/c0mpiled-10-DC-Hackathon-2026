@@ -5,7 +5,7 @@
 > **Agency:** NASA  
 > **Problem:** Legacy Microsoft SQL Server systems block downstream AI applications. This project demonstrates what's possible when NASA data lives in modern PostgreSQL — queryable by anyone, in plain English.
 
-![Uploading image.png…]()
+<img width="989" height="527" alt="image" src="https://github.com/user-attachments/assets/44b37708-0367-4e29-9e8d-d93997e90b7e" />
 
 ---
 
