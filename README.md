@@ -1,9 +1,11 @@
 # NASA Exoplanet Query Interface
 ### c0mpiled_10 · DC Hackathon 2026
 
-> **Prompt:** LLM-powered compliance alternatives / Modern public-facing infrastructure
-> **Agency:** NASA
+> **Prompt:** LLM-powered compliance alternatives / Modern public-facing infrastructure  
+> **Agency:** NASA  
 > **Problem:** Legacy Microsoft SQL Server systems block downstream AI applications. This project demonstrates what's possible when NASA data lives in modern PostgreSQL — queryable by anyone, in plain English.
+
+<img width="1173" height="753" alt="image" src="https://github.com/user-attachments/assets/f3cfc271-1f84-4275-81a3-514daa739481" />
 
 ---
 
