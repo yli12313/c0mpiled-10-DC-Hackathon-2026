@@ -1,5 +1,5 @@
 # NASA Exoplanet Query Interface
-### c0mpiled_10 · DC Hackathon 2026
+### c0mpiled-10/DC Hackathon 2026
 
 * **Prompt:** LLM-powered compliance alternatives / Modern public-facing infrastructure  
 * **Agency:** NASA  
