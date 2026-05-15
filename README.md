@@ -1,4 +1,7 @@
 # NASA Exoplanet Query Interface
+
+### This was a fun hackathon!
+
 **Prompt:** LLM-powered compliance alternatives / Modern public-facing infrastructure  
 **Agency:** NASA  
 **Problem:** Legacy Microsoft SQL Server systems block downstream AI applications. This project demonstrates what's possible when NASA data lives in modern PostgreSQL — queryable by anyone, in plain English.
