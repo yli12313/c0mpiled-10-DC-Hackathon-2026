@@ -2,7 +2,7 @@
 
 ### This was a fun hackathon!
 
-**Indovidual Contributor**: Yingquan Li
+* **Individual Contributor**: Yingquan Li
 
 **Prompt:** LLM-powered compliance alternatives / Modern public-facing infrastructure  
 **Agency:** NASA  
