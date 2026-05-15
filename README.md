@@ -1,6 +1,6 @@
 # NASA Exoplanet Query Interface
 
-### This was a fun hackathon!
+### This was a fun hackathon! The *Exoplanet's Query* Explorer looks great!
 
 * **Individual Contributor**: Yingquan Li
 
